@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
 }
-
 body {
     font-family: sans-serif;
     margin: 0;
@@ -13,14 +12,13 @@ body {
                          "sidebar main"
                          "footer footer"; 
 }
-
 header,
 aside,
 main,
 footer {
     padding: 16px;
     text-align: center;
-        display: flex;
+    display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
